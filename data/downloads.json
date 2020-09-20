@@ -1,0 +1,64 @@
+{
+    "downloads": [
+        {
+            "longitude": 47.300, 
+            "latitude": 19.50,
+            "app_id": 70569,
+            "downloaded_at": 1601566832
+        },
+        {
+            "longitude": 37.979,
+            "latitude": 23.71,
+            "app_id": 67883,
+            "downloaded_at": 1599364719
+        },
+        {
+            "longitude": 52.374,
+            "latitude": 4.88,
+            "app_id": 18319,
+            "downloaded_at": 1598750587
+        },
+        {
+            "longitude": 55.675,
+            "latitude": 12.56,
+            "app_id": 83020,
+            "downloaded_at": 1586811276
+        },
+        {
+            "longitude": 50.850,
+            "latitude": 4.34,
+            "app_id": 36401,
+            "downloaded_at": 1608500107
+        },
+        {
+            "longitude": 50.088,
+            "latitude": 14.42,
+            "app_id": 40299,
+            "downloaded_at": 1600335359
+        },
+        {
+            "longitude": 41.891,
+            "latitude": 12.51,
+            "app_id": 47394,
+            "downloaded_at": 1603851756
+        },
+        {
+            "longitude": 42.697,
+            "latitude": 23.32,
+            "app_id": 75861,
+            "downloaded_at": 1578253913
+        },
+        {
+            "longitude": 48.208,
+            "latitude": 16.37,
+            "app_id": 64736,
+            "downloaded_at": 1601941516
+        },
+        {
+            "longitude": 52.524,
+            "latitude": 13.41,
+            "app_id": 98416,
+            "downloaded_at": 1594394112
+        }
+    ]
+}

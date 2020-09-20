@@ -1,0 +1,37 @@
+{
+    "stats": [
+        {
+            "by_countries": {
+                "Germany": 3567,
+                "Hungary": 4546,
+                "Austria": 4567,
+                "Bulgaria": 5789,
+                "Denmark": 6732,
+                "Netherlands": 4678,
+                "Belgium": 6749,
+                "Greece": 2846,
+                "Czech Republic": 5468,
+                "Italy": 9353
+            },
+            "by_time": {
+                "morning": 456,
+                "noon": 1285,
+                "afternoon": 9832,
+                "evening": 2054,
+                "night": 853
+            },
+            "by_age": {
+                "0-18": 264,
+                "18-35": 854,
+                "35-60": 2776,
+                "60+": 1326
+            },
+            "by_income": {
+                "0-35000": 1648,
+                "35000-6000": 2643,
+                "6000-100000": 1468,
+                "100000+": 983
+            }
+        }
+    ]
+}
