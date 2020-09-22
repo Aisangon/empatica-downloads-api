@@ -19,7 +19,7 @@ app.get('/api/stats', (req, res) => {
     })
 })
 
-const server = app.listen(3000, () => {
+const server = app.listen(8888, () => {
     const port = server.address().port
     console.log(`Server started on ${port}`)
 })
